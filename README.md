@@ -49,3 +49,7 @@ Coming Soon.
 ## Dokumentasi
 
 Coming Soon.
+
+## Pengembang
+
+![Thumbnail Pengembang](./Thumbnail_Pengembang.png)
