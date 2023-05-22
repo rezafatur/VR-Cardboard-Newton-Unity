@@ -36,11 +36,11 @@ Sumber:
 
 ## Mockup
 
-Coming Soon.
+Figma : [Wireframes + Mockup](https://www.figma.com/file/2NT8LuHNpwqFd7WBBgrulR/VR-Newton's-Law?type=design&node-id=0%3A1&t=69xmXBd8wwoOVjEH-1)
 
 ## Demo
 
-Coming Soon.
+v1.0 : Coming Soon.
 
 ## Persyaratan Sistem
 
@@ -48,7 +48,7 @@ Coming Soon.
 
 ## Dokumentasi
 
-Coming Soon.
+YouTube : Coming Soon.
 
 ## Pengembang
 
