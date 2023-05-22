@@ -7,9 +7,9 @@ Proyek VR Cardboard Hukum Newton 1, 2, dan 3 memiliki tujuan untuk memvisualisas
 
 Nantinya, akan terdapat 3 simulasi yang tersedia dan 3D model yang digunakan adalah sebagai berikut:
 
-- Bola
-- Mobil
-- Roket
+- Bola,
+- Mobil, dan
+- Roket.
 
 Sumber:
 - [Free Sports Kit](https://assetstore.unity.com/packages/3d/characters/free-sports-kit-239377)
