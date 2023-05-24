@@ -17,6 +17,8 @@ Sumber:
 - [Meshtint Free City Lite Pack Mega Toon Series](https://assetstore.unity.com/packages/3d/environments/urban/meshtint-free-city-lite-pack-mega-toon-series-152378)
 - [Atom Rocket Model](https://assetstore.unity.com/packages/3d/vehicles/space/atom-rocket-model-140021)
 - [Particle Pack](https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325)
+- [Simple Low Poly Nature Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/simple-low-poly-nature-pack-157552)
+- [Low Poly Park](https://assetstore.unity.com/packages/3d/environments/low-poly-park-154815)
 
 ## Simulasi Hukum Newton 1, 2, dan 3
 
@@ -32,8 +34,8 @@ Sumber:
 ## Rencana Pengembangan
 
 - Proyek Awal. ✅
-- Menambahkan Scene Home, dan Main Menu.
-- Menambahkan Scene Simulasi Hukum Newton 1.
+- Menambahkan Scene Home, dan Main Menu. ✅
+- Menambahkan Scene Simulasi Hukum Newton 1. ✅
 - Menambahkan Scene Simulasi Hukum Newton 2.
 - Menambahkan Scene Simulasi Hukum Newton 3.
 - Mengubah Icon atau Logo dan Versi Aplikasi.
@@ -48,7 +50,7 @@ v1.0 : Coming Soon.
 
 ## Persyaratan Sistem
 
-Coming Soon.
+- Minimal Android 8 "Oreo".
 
 ## Dokumentasi
 
