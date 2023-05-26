@@ -8,7 +8,6 @@ public class BallController : MonoBehaviour {
     public GameObject canvas1;
     public GameObject canvas2;
     public float moveSpeed = 10f;
-
     private bool clicked = false;
     private bool pointerOnBall = false;
     private float pointerTimer = 0.0f;
@@ -29,22 +28,17 @@ public class BallController : MonoBehaviour {
         }
     }
 
-    public void OnPointerEnter()
-    {
+    public void OnPointerEnter() {
         pointerOnBall = true;
     }
 
-    public void OnPointerExit()
-    {
+    public void OnPointerExit() {
         pointerOnBall = false;
         pointerTimer = 0.0f;
     }
 
-    // Update is called once per frame
-    public void MoveBall()
-    {
-        if (!clicked)
-        {
+    public void MoveBall() {
+        if (!clicked) {
             clicked = true;
             rb.AddForce(new Vector3(1f, 0f, 0f) * moveSpeed, ForceMode.Impulse);
             OnBallClick();
