@@ -11,7 +11,7 @@ Nantinya, akan terdapat 3 simulasi yang tersedia dan 3D model yang digunakan ada
 - Mobil, dan
 - Roket.
 
-Sumber:
+Sumber 3D Model :
 - [Free Sports Kit](https://assetstore.unity.com/packages/3d/characters/free-sports-kit-239377)
 - [Vehicle](https://learn.unity.com/tutorial/set-up-your-first-project-in-unity?uv=2021.3&projectId=5caccdfbedbc2a3cef0efe63)
 - [Meshtint Free City Lite Pack Mega Toon Series](https://assetstore.unity.com/packages/3d/environments/urban/meshtint-free-city-lite-pack-mega-toon-series-152378)
@@ -20,6 +20,7 @@ Sumber:
 - [Simple Low Poly Nature Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/simple-low-poly-nature-pack-157552)
 - [Low Poly Park](https://assetstore.unity.com/packages/3d/environments/low-poly-park-154815)
 - [Stylized Snow Forest](https://assetstore.unity.com/packages/3d/environments/landscapes/stylized-snow-forest-230653)
+- [Low Poly Environment Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479)
 
 ## Simulasi Hukum Newton 1, 2, dan 3
 
@@ -38,7 +39,7 @@ Sumber:
 - Menambahkan Scene Home, dan Main Menu. ✅
 - Menambahkan Scene Simulasi Hukum Newton 1. ✅
 - Menambahkan Scene Simulasi Hukum Newton 2. ✅
-- Menambahkan Scene Simulasi Hukum Newton 3.
+- Menambahkan Scene Simulasi Hukum Newton 3. ✅
 - Mengubah Icon atau Logo dan Versi Aplikasi.
 
 ## Mockup
