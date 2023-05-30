@@ -21,4 +21,9 @@ public class PageRoute : MonoBehaviour {
     public void Newton2(string Newton2) {
         SceneManager.LoadScene("Newton 2");
     }
+
+    // Newton 3 Route
+    public void Newton3(string Newton3) {
+        SceneManager.LoadScene("Newton 3");
+    }
 }

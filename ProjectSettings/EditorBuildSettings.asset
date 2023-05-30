@@ -14,5 +14,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Newton 2.unity
     guid: 581696d675664fa429bd58fd51472a06
+  - enabled: 1
+    path: Assets/Scenes/Newton 3.unity
+    guid: a72ccd86c50e26446ac27d8a2c796c4f
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fef50348ccb2e5d4d829fa243388c17d, type: 2}
