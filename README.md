@@ -25,13 +25,13 @@ Sumber 3D Model :
 ## Simulasi Hukum Newton 1, 2, dan 3
 
 ![Thumbnail Hukum Newton 1](./Thumbnail_Hukum_Newton_1.png)
-**Hukum Newton 1**, akan memberikan perintah bola bergerak. Interaksi ini akan memberikan semacam perintah yang membuat bola dapat bergerak dengan cara ketika user mengarahkan pandangannya pada suatu pada bola, maka bola tersebut akan bergerak dan memberikan penjelasan hukum newton pertama.
+Pada **Hukum Newton 1**, pengguna akan diberikan perintah untuk mendorong bola. Interaksi ini akan memberikan perintah yang membuat bola dapat bergerak ke depan dengan cara ketika user mengarahkan pandangan atau pointer pada bola, maka bola tersebut akan bergerak ke depan. Setelah bola bergerak, pengguna dapat melihat penjelasan dari bagaimana bola tersebut dapat bergerak sesuai dengan Hukum Newton 1. Nantinya, pengguna akan diuji dengan kuis untuk memastikan pengguna sudah memahami atau belum.
 
 ![Thumbnail Hukum Newton 2](./Thumbnail_Hukum_Newton_2.png)
-**Hukum Newton 2**, akan memberikan perintah mobil bergerak dengan kecepatan yang didapatkan dari gaya dibagi massa. Interaksi ini akan memberikan semacam perintah yang membuat mobil dapat bergerak dengan cara ketika user mengarahkan pandangannya pada button start atau mobil, maka mobil tersebut akan bergerak dan memberikan penjelasan hukum newton kedua.
+Pada **Hukum Newton 2**, pengguna akan diberikan perintah untuk menekan tombol mulai atau mobil box untuk dapat menggerakkan mobil box dengan kecepatan yang didapatkan dari gaya dibagi massa. Interaksi ini akan memberikan perintah yang membuat mobil box dapat bergerak dengan cara ketika user mengarahkan pandangan atau pointer pada tombol mulai atau mobil box, maka mobil box tersebut akan bergerak. Setelah mobil box bergerak, pengguna dapat melihat penjelasan dari bagaimana mobil box tersebut dapat bergerak sesuai dengan Hukum Newton 2. Nantinya, pengguna akan diuji dengan kuis untuk memastikan pengguna sudah memahami atau belum.
 
 ![Thumbnail Hukum Newton 3](./Thumbnail_Hukum_Newton_3.png)
-**Hukum Newton 3**, akan memberikan semacam simulator roket terbang. Selain itu, user dapat menentukan attribute roket yaitu berat yang akan melawan gaya gravitasi. Kemudian, pada saat simulasi juga akan terdapat countdown atau hitung mundur ketika simulasi berjalan.
+Pada **Hukum Newton 3**, pengguna akan diberikan perintah untuk menekan tombol mulai. Interaksi ini akan memberikan perintah yang membuat roket dapat meluncur dengan cara ketika user mengarahkan pandangan atau pointer pada tombol mulai, maka roket tersebut akan meluncur dengan hitungan mundur. Setelah roket meluncur, pengguna dapat melihat penjelasan dari bagaimana roket tersebut dapat meluncur sesuai dengan Hukum Newton 3. Nantinya, pengguna akan diuji dengan kuis untuk memastikan pengguna sudah memahami atau belum.
 
 ## Rencana Pengembangan
 
@@ -40,7 +40,7 @@ Sumber 3D Model :
 - Menambahkan Scene Simulasi Hukum Newton 1. ✅
 - Menambahkan Scene Simulasi Hukum Newton 2. ✅
 - Menambahkan Scene Simulasi Hukum Newton 3. ✅
-- Mengubah Icon atau Logo dan Versi Aplikasi.
+- Mengubah Icon atau Logo dan Versi Aplikasi. ✅
 
 ## Mockup
 
@@ -48,7 +48,7 @@ Figma : [Wireframes + Mockup](https://www.figma.com/file/2NT8LuHNpwqFd7WBBgrulR/
 
 ## Aplikasi
 
-v1.0 : Coming Soon.
+v1.0 : [Download](https://drive.google.com/file/d/1AJngkl76EdL63Os9pPpz9vh3ApJ2DbXY/view?usp=sharing)
 
 ## Persyaratan Sistem
 
@@ -56,7 +56,7 @@ v1.0 : Coming Soon.
 
 ## Dokumentasi / Demo
 
-YouTube : Coming Soon.
+YouTube : [Klik Disini](https://youtu.be/Fb-XcPpr-kE)
 
 ## Pengembang
 
