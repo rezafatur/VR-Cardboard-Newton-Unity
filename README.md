@@ -54,7 +54,7 @@ v1.0 : [Download](https://drive.google.com/file/d/1AJngkl76EdL63Os9pPpz9vh3ApJ2D
 
 - Minimal Android 8 "Oreo".
 
-## Dokumentasi / Demo
+## Demo
 
 YouTube : [Klik Disini](https://youtu.be/Fb-XcPpr-kE)
 
